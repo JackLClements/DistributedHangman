@@ -1,0 +1,88 @@
+New game 1. Word to guess - cervantes's
+Player 1 guessed c
+Guess c was true
+Player 1 guessed e
+Guess e was true
+Player 1 guessed v
+Guess v was true
+Player 1 guessed a
+Guess a was true
+Player 1 guessed n
+Guess n was true
+Player 1 guessed t
+Guess t was true
+Player 1 guessed '
+Guess ' was true
+Player 1 guessed s
+Guess s was true
+Player 1 guessed n
+Guess n was true
+Game ended - game won
+New game 2. Word to guess - adana's
+Game 2: Player 3 guessed a
+Guess a was true
+Game 2: Player 3 guessed d
+Guess d was true
+Game 2: Player 2 guessed n
+Guess n was true
+Game 2: Player 2 guessed '
+Guess ' was true
+Game 2 ended - game won
+New game 1. Word to guess - levesque's
+Game 1: Player 1 guessed l
+Guess l was true
+Game 1: Player 1 guessed e
+Guess e was true
+Game 1: Player 1 guessed v
+Guess v was true
+Game 1: Player 1 guessed '
+Guess ' was true
+Game 1: Player 1 guessed s
+Guess s was true
+Game 1: Player 1 guessed q
+Guess q was true
+Game 1 ended - game won
+New game 1. Word to guess - amaru
+Game 1: Player 1 guessed a
+Guess a was true
+Game 1: Player 1 guessed m
+Guess m was true
+Game 1: Player 1 guessed r
+Guess r was true
+Game 1 ended - game won
+New game 1. Word to guess - ganymede's
+Game 1: Player 1 guessed g
+Guess g was true
+Game 1: Player 1 guessed a
+Guess a was true
+Game 1: Player 1 guessed n
+Guess n was true
+Game 1: Player 1 guessed y
+Guess y was true
+Game 1: Player 1 guessed m
+Guess m was true
+Game 1: Player 1 guessed e
+Guess e was true
+Game 1: Player 1 guessed d
+Guess d was true
+Game 1: Player 1 guessed s
+Guess s was true
+Game 1 ended - game won
+New game 1. Word to guess - loren
+Game 1: Player 1 guessed l
+Guess l was true
+Game 1: Player 1 guessed o
+Guess o was true
+Game 1: Player 1 guessed r
+Guess r was true
+Game 1: Player 1 guessed e
+Guess e was true
+Game 1 ended - game won
+New game 1. Word to guess - britt
+Game 1: Player 1 guessed t
+Guess t was true
+Game 1: Player 1 guessed b
+Guess b was true
+Game 1: Player 1 guessed r
+Guess r was true
+Game 1 ended - game won
